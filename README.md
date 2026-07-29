@@ -1,3 +1,8 @@
 # MB5370 Module 4: Google Earth Engine
 
 Code from Google Earth Engine workshops
+
+- In [Workshop 1](https://github.com/katiedyck/MB5370-EarthEngine/tree/main/Workshop1) ...
+- In [Workshop 2](https://github.com/katiedyck/MB5370-EarthEngine/tree/main/Workshop2) ...
+- In Workshop 3
+- In Workshop 4 
