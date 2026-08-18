@@ -11,7 +11,7 @@ Across four computer workshops, this module covered:
 - Scaling an analysis from a small test region to the full global domain
 
 | Workshop | Topic | Summary |
-| :---- | : ---- | :---- |
+| :---- | :---- | :---- |
 | 1 | Introduction to Google Earth Engine | Introduction to the Earth Engine's Code Editor, JavaScript basics (variables, lists, objects, functions), saving scripts under Git-based version control, navigating the Earth Engine Docs, and visualising Image and Feature data (elevation via SRTM, protected areas via WDPA). |
 | 2 | Filters and Computation | Metadata and spatial filtering of `FeatureCollection`s (e.g. isolating national parks within New Zealand), chaining filter operations, image computation (`.add()`, `.gt()`, `.selfMask()`), region reducers (`reduceRegion` for mean/min/max/area statistics), and image reducers for compositing image collections (e.g. cloud-free Landsat composites via `.median()`). |
 | 3 | Nightlights in Global Coastlines | A global change-detection analysis comparing population (GPWv4.11) and nighttime lights (DMSP-OLS) between two time points, filtered to coastal ecoregions/grid cells, with per-region change statistics computed via `reduceRegions()`, scaled from a small test area to a full global export scale. |
