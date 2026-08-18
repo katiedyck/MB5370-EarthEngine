@@ -2,6 +2,8 @@
 
 This repository documents four computer workshops from the JCU MB5370 Google Earth Engine module, which focused on cloud-based geospatial computing using Google Earth Engine (GEE), JavaScript fundamentals, the Earth Engine API, and two applied global-scale marine spatial analyses.
 
+  [Get Started with Google Earth Engine](https://developers.google.com/earth-engine/guides/getstarted)
+
 ## Module Overview
 Across four computer workshops, this module covered:
 - Writing and running JavaScript in the Earth Engine Code Editor
@@ -19,3 +21,16 @@ Across four computer workshops, this module covered:
 --------------------------------
 
 JavaScript files (`.js`) from each workshop are saved in their own folder. Workshops 1 and 2 are divided into multiple files and numbered appropriately to indicate the correct order of workshop procedures.
+
+## Earth Engine Data
+Datasets from the [Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets) used in this module:
+- [SRTM Digital Elevation Data Version 4](https://developers.google.com/earth-engine/datasets/catalog/CGIAR_SRTM90_V4)
+- [WDPA: World Database on Protected Areas (polygons)](https://developers.google.com/earth-engine/datasets/catalog/WCMC_WDPA_current_polygons)
+- [Greenland DEM - Greenland Mapping Project (GIMP)](https://developers.google.com/earth-engine/datasets/catalog/OSU_GIMP_DEM)
+- [LSIB 2017: Large Scale International Boundary Polygons, Simplified](https://developers.google.com/earth-engine/datasets/catalog/USDOS_LSIB_SIMPLE_2017)
+- [WorldClim Climatology V1](https://developers.google.com/earth-engine/datasets/catalog/WORLDCLIM_V1_MONTHLY)
+- [USGS Landsat 8 Collection 2 Tier 1 TOA Reflectance](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC08_C02_T1_TOA)
+- [ETOPO1: Global 1 Arc-Minute Elevation](https://developers.google.com/earth-engine/datasets/catalog/NOAA_NGDC_ETOPO1)
+- [GPWv411: Population Count (Gridded Population of the World Version 4.11)](https://developers.google.com/earth-engine/datasets/catalog/CIESIN_GPWv411_GPW_Population_Count)
+- [DMSP OLS: Nighttime Lights Time Series Version 4, Defense Meteorological Program Operational Linescan System](https://developers.google.com/earth-engine/datasets/catalog/NOAA_DMSP-OLS_NIGHTTIME_LIGHTS)
+- [Allen Coral Atlas (ACA) - Geomorphic Zonation and Benthic Habitat - v2.0](https://developers.google.com/earth-engine/datasets/catalog/ACA_reef_habitat_v2_0)
